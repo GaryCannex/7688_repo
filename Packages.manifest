@@ -76,10 +76,10 @@ Depends: libc, luci-mod-admin-full, luci-lib-nixio
 Source: package/luci-app-4g
 Section: luci
 Architecture: mipsel_24kc
-Installed-Size: 1439
+Installed-Size: 1574
 Filename: luci-app-4g_1.0-1_mipsel_24kc.ipk
-Size: 2346
-SHA256sum: 79ebb94c2dcd127121b8a14a1446c4f46fd9e0a9301a587ac59bef2b61b324c3
+Size: 2481
+SHA256sum: 90f9ebc93519139d575c1819ede6a23fd4ffbd2af611ebc92a06dbeb1109d49c
 Description:  4G Setting
 
 Package: luci-app-iedu
